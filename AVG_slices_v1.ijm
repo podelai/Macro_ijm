@@ -1,4 +1,4 @@
-
+//AVG_slices_v1
 
 
 #@ Integer (label="Number of slices", style="slider", min=1, max=10, stepSize=1) slices_nb //size of the ROI
